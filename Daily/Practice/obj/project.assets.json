@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\.project\\Daily\\Practice\\Practice\\Practice.csproj",
+      "projectUniqueName": "C:\\.project\\-2025-Practice\\Daily\\Practice\\Practice.csproj",
       "projectName": "Practice",
-      "projectPath": "C:\\.project\\Daily\\Practice\\Practice\\Practice.csproj",
+      "projectPath": "C:\\.project\\-2025-Practice\\Daily\\Practice\\Practice.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\.project\\Daily\\Practice\\Practice\\obj\\",
+      "outputPath": "C:\\.project\\-2025-Practice\\Daily\\Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
